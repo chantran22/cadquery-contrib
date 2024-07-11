@@ -74,12 +74,14 @@ A place to share CadQuery scripts, modules, tutorials and projects
 
     <img src="https://github.com/lopezsolerluis/reloj-de-sol-digital-cadquery/blob/main/sundial-cadquery.png" width="600"/>
 
+* [Thread.py](examples/Channel3.py) - C channel support.
+    <img src="examples/images/Channel3.png" width="600"/>
+
 ### Tutorials
 
 * [Ex000 Start Here.ipynb](tutorials/Ex000%20Start%20Here.ipynb) - iPython notebook that is the entry point for a set of CadQuery tutorials
 * [Ex001 Simple Block.ipynb](tutorials/Ex001%20Simple%20Block.ipynb) - iPython notebook that shows how to create an extremely simple block
 
 
-* C channel support
-![image](https://github.com/chantran22/cadquery-contrib/assets/92708938/cd05e309-bf38-473b-b321-bb4828503618)
+
 
