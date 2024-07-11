@@ -74,8 +74,9 @@ A place to share CadQuery scripts, modules, tutorials and projects
 
     <img src="https://github.com/lopezsolerluis/reloj-de-sol-digital-cadquery/blob/main/sundial-cadquery.png" width="600"/>
 
-* [Channel3.py](examples/Channel3.py) - C channel support.
-    <img src="examples/images/channel3.PNG" width="450"/>
+* [Channel3.py](examples/channel3.py) - C channel support.
+  
+  <img src="examples/images/channel3.PNG" width="450"/>
 
 ### Tutorials
 
