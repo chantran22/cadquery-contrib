@@ -78,9 +78,9 @@ A place to share CadQuery scripts, modules, tutorials and projects
   
   <img src="examples/images/channel3.PNG" width="450"/>
 
-  * [Channel3.py](examples/channel3.py) - Polygon frame.
+  * [pol.py](examples/channel3.py) - Polygon frame.
   
-  <img src="examples/images/channel3.PNG" width="450"/>
+  <img src="examples/images/polyframe.PNG" width="450"/>
 
 ### Tutorials
 
